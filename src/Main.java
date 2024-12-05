@@ -10,6 +10,7 @@ public class Main {
         System.out.println(permission(generateRandomAge(),10));
 
         //VSC
+        //lkjsdhfjsdfhljbsdjhb
     }
 
     private static String permission(int age, int temp) {
